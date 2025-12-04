@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrevlif13
+- 👋 Hi, I’m @revlinux
 - 👀 I’m interested in Front End Web Developer
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...
